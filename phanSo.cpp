@@ -4,9 +4,6 @@
 
 #include "phanSo.h"
 #include <iostream>
-
-using namespace std;
-
 phanSo::phanSo(int tu, int mau) {
     this->m_tu = tu;
     this->m_mau = mau;
@@ -17,5 +14,5 @@ phanSo::~phanSo() {
 }
 
 void phanSo::print_value() {
-
+        std::cout<<m_tu<<"/"<<m_mau;
 }
