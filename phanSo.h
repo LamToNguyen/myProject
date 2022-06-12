@@ -15,6 +15,4 @@ public:
     void print_value();
 };
 
-
-
 #endif //MYPROJECT_PHANSO_H

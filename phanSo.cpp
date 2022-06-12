@@ -9,7 +9,7 @@ using namespace std;
 
 phanSo::phanSo(int tu, int mau) {
     this->m_tu = tu;
-    this->m_mau = tu;
+    this->m_mau = mau;
 }
 
 phanSo::~phanSo() {
