@@ -13,7 +13,7 @@ private:
 public:
     phanSo(int tu, int mau);
     ~phanSo();
-    void print_value();
+    void printValue();
 };
 
 

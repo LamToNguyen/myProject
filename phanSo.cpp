@@ -12,6 +12,7 @@ phanSo::~phanSo() {
 
 }
 
-void phanSo::print_value() {
+void phanSo::printValue() {
 
 }
+
