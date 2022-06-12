@@ -17,6 +17,5 @@ phanSo::~phanSo() {
 }
 
 void phanSo::print_value() {
-    cout << m_tu << "/" << m_mau << endl;
-}
 
+}

@@ -5,6 +5,7 @@
 #ifndef MYPROJECT_PHANSO_H
 #define MYPROJECT_PHANSO_H
 
+
 class phanSo {
 private:
     int m_tu;
@@ -14,5 +15,6 @@ public:
     ~phanSo();
     void print_value();
 };
+
 
 #endif //MYPROJECT_PHANSO_H
