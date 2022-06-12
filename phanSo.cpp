@@ -12,6 +12,6 @@ phanSo::~phanSo() {
 
 }
 
-void phanSo::print_value() {
+void phanSo::printValue() {
         std::cout<<m_tu<<"/"<<m_mau;
 }
